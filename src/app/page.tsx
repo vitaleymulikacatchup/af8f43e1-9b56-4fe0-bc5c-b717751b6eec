@@ -181,7 +181,7 @@ export default function LandingPage() {
           ]}
           showRating={true}
           textboxLayout="default"
-          animationType="fade-in"
+          animationType="slide-up"
           useInvertedBackground="noInvert"
           carouselMode="buttons"
         />
