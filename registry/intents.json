@@ -1,0 +1,123 @@
+{
+  "horizontal timeline": [
+    "FeatureCardEight"
+  ],
+  "vertical sticky scroll timeline": [
+    "FeatureCardNine"
+  ],
+  "sequential process": [
+    "FeatureCardSix",
+    "FeatureCardNineteen",
+    "FeatureProcessSteps"
+  ],
+  "testimonials": [
+    "ProductCardTwo",
+    "TestimonialCardOne",
+    "TestimonialCardTwo",
+    "TestimonialCardFive",
+    "TestimonialCardSix",
+    "TestimonialCardThirteen"
+  ],
+  "feature showcase": [
+    "NavbarStyleFullscreen",
+    "NavbarStyleCentered",
+    "SplitAbout",
+    "TextSplitAbout",
+    "TextAbout",
+    "MediaSplitTabsAbout",
+    "TestimonialAboutCard",
+    "AboutMetric",
+    "FeatureCardOne",
+    "FeatureCardThree",
+    "FeatureCardTwelve",
+    "FeatureCardSixteen",
+    "FeatureCardTwentyOne",
+    "FeatureCardMedia",
+    "PricingCardOne",
+    "PricingCardTwo",
+    "PricingCardThree",
+    "PricingCardFive",
+    "PricingCardEight",
+    "PricingCardNine",
+    "MetricCardThree",
+    "MetricCardSeven",
+    "TestimonialCardTen",
+    "TestimonialCardTwelve",
+    "ContactCenter",
+    "ContactSplit",
+    "ContactSplitForm",
+    "FooterBase",
+    "FooterMedia",
+    "FooterLogoEmphasis",
+    "FooterSimple",
+    "NavbarLayoutFloatingInline",
+    "NavbarLayoutFloatingOverlay"
+  ],
+  "metrics display": [
+    "MetricCardOne",
+    "MetricCardTwo",
+    "MetricCardEleven",
+    "MetricCardFourteen"
+  ],
+  "contact form": [
+    "ProductCardOne",
+    "TeamCardEleven",
+    "FaqBase",
+    "FaqDouble",
+    "ContactText",
+    "ContactFaq"
+  ],
+  "hero with media": [
+    "HeroBillboard",
+    "HeroBillboardCarousel",
+    "HeroBillboardGallery",
+    "HeroSplit",
+    "HeroSplitKpi",
+    "HeroOverlay",
+    "HeroLogo",
+    "HeroLogoBillboard",
+    "HeroLogoBillboardSplit",
+    "HeroBillboardScroll",
+    "HeroBillboardRotatedCarousel",
+    "HeroCarouselLogo",
+    "MediaAbout",
+    "TestimonialCardFifteen",
+    "BlogCardThree"
+  ],
+  "product showcase": [
+    "NavbarStyleApple",
+    "ProductCardThree",
+    "ProductCardFour"
+  ],
+  "about section": [
+    "InlineImageSplitTextAbout",
+    "MetricSplitMediaAbout",
+    "TeamCardTwo",
+    "TeamCardSix"
+  ],
+  "sequential vertical steps with alternating layout": [
+    "FeatureCardSeven"
+  ],
+  "pricing plans": [
+    "MetricCardTen"
+  ],
+  "team section": [
+    "TeamCardOne",
+    "TeamCardFive",
+    "TeamCardTen"
+  ],
+  "faq section": [
+    "FaqSplitMedia",
+    "FaqSplitText"
+  ],
+  "content listing": [
+    "BlogCardOne",
+    "BlogCardTwo"
+  ],
+  "footer": [
+    "FooterBaseReveal",
+    "FooterCard",
+    "FooterBaseCard",
+    "FooterLogoReveal"
+  ]
+}
