@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleApple from '@/components/navbar/NavbarStyleApple/NavbarStyleApple';
@@ -93,7 +93,7 @@ export default function LandingPage() {
             {
               title: "Online Platform",              description: "Access our dedicated platform for online games, puzzle solving, and 24/7 training resources.",              imageSrc: "https://img.b2bpic.net/free-photo/chess-game-business-strategy-concept_53876-30572.jpg",              imageAlt: "Online chess platform interface"
             }
-          ]
+          ]}
           textboxLayout="default"
           animationType="slide-up"
           gridVariant="two-columns-alternating-heights"
@@ -139,7 +139,7 @@ export default function LandingPage() {
             {
               id: "4",              name: "Natalia Volkova",              role: "Training Coordinator",              imageSrc: "https://img.b2bpic.net/free-photo/medium-shot-old-man-with-chess-game_23-2149833663.jpg",              imageAlt: "Natalia Volkova, Training Coordinator"
             }
-          ]
+          ]}
           textboxLayout="default"
           animationType="slide-up"
           gridVariant="uniform-all-items-equal"
